@@ -1,3 +1,5 @@
+# 姓名：陳建成、學號：R09942097、Streamlit cloud: https://jeffeuxmartin-assignment-bonus-1-streamlit-app-fo-srcapp-sooxon.streamlitapp.com/
+
 from snownlp import SnowNLP
 import streamlit as st
 import pandas as pd
